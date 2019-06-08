@@ -1,0 +1,19 @@
+body	{
+		font-family: "SF Pro Text";
+		font-size: 20px;
+		font-weight: 200;
+}
+
+.bg-primary {
+    background-color: #2F4F4F !important;
+}
+
+.bg-dark {
+    background-color: #696969 !important;
+}
+
+.strip-green {
+    background-color: #F5F5DC;
+		padding: 10px 0;
+}
+
